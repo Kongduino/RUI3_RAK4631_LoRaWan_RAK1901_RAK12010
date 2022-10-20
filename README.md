@@ -17,3 +17,5 @@ A `Secret.h` file is required, with the following content:
 ```
 
 These are the keys required by TTN to accept your device on the network. Use your own :-)
+
+![device](assets/Device.jpg)
